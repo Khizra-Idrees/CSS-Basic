@@ -1,0 +1,34 @@
+*{
+    margin: 8px;
+    padding: 0;
+}
+
+h1{
+    background-color: #A68566;
+    color: #433527;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    background-color: #9f6464;
+    font-weight: 700;
+    margin: 10px;
+    color: #5d2e27;
+}
+
+ul{
+    font-size: 25px;
+}
+
+ul li{
+    margin-left: 35px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #86312b;
+    font-size: 24px;
+}
